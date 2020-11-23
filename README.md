@@ -1,5 +1,3 @@
 # vscode-test 練習
 
 練習です
-
-vscodeでファイルを変更
