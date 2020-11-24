@@ -1,3 +1,3 @@
 # vscode-test 練習
 
-練習です
+github練習です
